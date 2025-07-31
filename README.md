@@ -2,7 +2,7 @@
 My Portfolio Website
 
 ## Screenshots:
-### Computer View
+### Desktop View
 ![Computer View](https://github.com/zahidulsifat/Minimalfolio/blob/master/Portfolio.PNG)
 
 ### Mobile View
